@@ -76,18 +76,14 @@ Battleship Rock located in Natural Bridge, KY
 
 
 <img src="BR1.jpg">
+Link here: https://www.tripadvisor.ie/LocationPhotoDirectLink-g39858-d259757-i35375882-Natural_Bridge_State_Resort_Park-Slade_Kentucky.html
 <img src="BR3.jpg">
-
-![Battleship Rock](BR1.jpg)
-
-
-![Battleship Rock](BR3.jpg)
+Link here: https://parks.ky.gov/slade/trails/trails/battleship-rock-trail
 
 
 
 
 
 
-[Link](https://www.tripadvisor.ie/LocationPhotoDirectLink-g39858-d259757-i35375882-Natural_Bridge_State_Resort_Park-Slade_Kentucky.html)
 
-[Link](https://parks.ky.gov/slade/trails/trails/battleship-rock-trail)
+
