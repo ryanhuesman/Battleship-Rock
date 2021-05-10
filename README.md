@@ -1,7 +1,7 @@
 # Battleship-Rock
 Battleship Rock located in Natural Bridge, KY
 
-<!DOCTYPE html>
+
 <html>
 
 <head>
@@ -31,11 +31,7 @@ Battleship Rock located in Natural Bridge, KY
 
     <iframe title="Battleship Rock" width="1024" height="576" src="https://cesium.com/ion/stories/viewer/?id=5f8a4c12-59e2-482a-9529-95e37e572fee" frameborder="0" allow="fullscreen" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
     <section> 
-</body>
 
-</html>
-
-<!DOCTYPE html>
 <html>
 
 <head>
@@ -78,4 +74,3 @@ Battleship Rock located in Natural Bridge, KY
 
 </html>
 
-[Link to youtube animation](https://www.youtube.com/watch?v=P_XpfvxEJP8)
