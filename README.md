@@ -72,10 +72,10 @@ Battleship Rock located in Natural Bridge, KY
   The view that you get from the rock is astonishing, which is why hikers come from all over the world to visit.
   It's worth it to take a tour sometime</h3>
 
-<html>
 
-<h5> Images of Battleship Rock </h5>
-<img src="BR1.jpg" alt="images">
+
+
+
 
 ![Battleship Rock](images/BR1.jpg)
 [Link](https://parks.ky.gov/slade/trails/trails/battleship-rock-trail)
