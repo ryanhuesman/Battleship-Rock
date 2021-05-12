@@ -28,7 +28,8 @@ Battleship Rock located in Natural Bridge, KY
     <h3> Battleship Rock is a brilliant outcrop that lies slightly North geographically of Natural Bridge.
   This rock is heavily trafficked and sits on a 4.2 mile long trail that hikers can visit.
   The view that you get from the rock is astonishing, which is why hikers come from all over the world to visit.
-  It's worth it to visit! </h3>
+  It's worth it to visit! </h3> <br>
+  <br>
     <h2>Come take a tour of Battleship Rock!</h2>
 
     <!-- 💡💡💡 paste embed code below -->
@@ -37,7 +38,10 @@ Battleship Rock located in Natural Bridge, KY
     <section> 
 
 <html>
-<h5> This is a tour of a point cloud of Battleship Rock. From this, you are able to see a few different birds eye views of the location, as well as a view from the sky bridge!
+<h5> This is a tour of a point cloud of Battleship Rock. From this, you are able to see a few different birds eye views of the location, as well as a view from the sky bridge! <br>
+<br>
+<br>
+<br>
 <head>
   <meta charset='utf-8' />
   <title>Display a tour</title>
