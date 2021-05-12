@@ -25,6 +25,10 @@ Battleship Rock located in Natural Bridge, KY
 <body>
   <section>
     <h1>Howdy!</h1>
+    <h3> Battleship Rock is a brilliant outcrop that lies slightly North geographically of Natural Bridge.
+  This rock is heavily trafficked and sits on a 4.2 mile long trail that hikers can visit.
+  The view that you get from the rock is astonishing, which is why hikers come from all over the world to visit.
+  It's worth it to take a tour sometime</h3>
     <h2>Come take a tour of Battleship Rock!</h2>
 
     <!-- 💡💡💡 paste embed code below -->
@@ -33,7 +37,7 @@ Battleship Rock located in Natural Bridge, KY
     <section> 
 
 <html>
-
+<h3> This is a tour of a point cloud of Battleship Rock. From this, you are able to see a few different birds eye views of the location, as well as a view from the sky bridge!
 <head>
   <meta charset='utf-8' />
   <title>Display a tour</title>
@@ -66,11 +70,9 @@ Battleship Rock located in Natural Bridge, KY
 
     <iframe width="432" height="243" src="https://www.youtube.com/embed/P_XpfvxEJP8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+<h3> This is a 3D animation of Battleship Rock. The area seen is the tip of the rock with the surrounding area within a 500 foot radius. </h3>
 
-<h3> Battleship Rock is a brilliant outcrop that lies slightly North geographically of Natural Bridge.
-  This rock is heavily trafficked and sits on a 4.2 mile long trail that hikers can visit.
-  The view that you get from the rock is astonishing, which is why hikers come from all over the world to visit.
-  It's worth it to take a tour sometime</h3>
+<h2> Images of the outcrop: </h2>
 
 
 
@@ -81,7 +83,7 @@ Battleship Rock located in Natural Bridge, KY
 <h6> Link here: https://parks.ky.gov/slade/trails/trails/battleship-rock-trail
 
 
-<h3> These Images capture the view of Battleship Rock from Natural Bridge. You can either make your way up by hiking, or take the skylift. 
+
 
 
 
