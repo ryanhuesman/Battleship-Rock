@@ -1,6 +1,7 @@
-# Battleship-Rock
-Battleship Rock located in Natural Bridge, KY
+# Battleship Rock
+## Battleship Rock located in Natural Bridge, KY
 
+<h3> Animations were produced by Ryan Huesman for the University of Kentucky's GEO 409 final project </h3>
 
 <html>
 
@@ -95,7 +96,7 @@ Battleship Rock located in Natural Bridge, KY
   <li> ArcGIS Pro was used to display the 3D version of the point cloud
   <li> Cesium Ion was used to make the slide show
   <li> A Python script was used to process the data we obtained from KyFromAbove
-</ol> <br>
+ <br>
 <br>
 <h3> Animations were produced by Ryan Huesman for the University of Kentucky's GEO 409 final project </h3>
 
