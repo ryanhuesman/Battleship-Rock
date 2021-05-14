@@ -75,7 +75,7 @@ Battleship Rock located in Natural Bridge, KY
 
     <!-- 💡💡💡 paste embed code below -->
 
-    <iframe width="432" height="243" src="https://www.youtube.com/embed/P_XpfvxEJP8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <iframe width="678" height="576" src="https://www.youtube.com/embed/P_XpfvxEJP8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   </section>
 </head>  
 
