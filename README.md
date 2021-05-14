@@ -1,7 +1,7 @@
 # Battleship Rock
-## Battleship Rock located in Natural Bridge, KY
+<h5> Battleship Rock located in Natural Bridge, KY
 
-<h3> Animations were produced by Ryan Huesman for the University of Kentucky's GEO 409 final project </h3>
+<h5> Animations were produced by Ryan Huesman for the University of Kentucky's GEO 409 final project 
 
 <html>
 
