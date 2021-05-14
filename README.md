@@ -71,7 +71,7 @@ Battleship Rock located in Natural Bridge, KY
 <head>
   <section>
     
-    <h2> View an animation of Battleship Rock in Natural Bridge, KY!</h2>
+   <h2>View an animation of Battleship Rock in Natural Bridge, KY!</h2>
 
     <!-- 💡💡💡 paste embed code below -->
 
@@ -89,7 +89,15 @@ Battleship Rock located in Natural Bridge, KY
 <img src="BR1.jpg">
 <h6> Link here: https://www.tripadvisor.ie/LocationPhotoDirectLink-g39858-d259757-i35375882-Natural_Bridge_State_Resort_Park-Slade_Kentucky.html
 <img src="BR3.jpg">
-<h6> Link here: https://parks.ky.gov/slade/trails/trails/battleship-rock-trail
+<h6> Link here: https://parks.ky.gov/slade/trails/trails/battleship-rock-trail <br>
+<br>
 
+<h2> Tools Used </h2>
+<ol>
+  <li> ArcGIS Pro was used to display the 3D version of the point cloud
+  <li> Cesium Ion was used to make the slide show
+  <li> A Python script was used to process the data we obtained from KyFromAbove
+</ol>
 
+<h3> Animations were produced by Ryan Huesman for the University of Kentucky's GEO 409 final project </h3>
 
