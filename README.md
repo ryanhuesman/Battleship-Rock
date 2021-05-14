@@ -22,7 +22,7 @@ Battleship Rock located in Natural Bridge, KY
   </style>
 </head>
 
-<body>
+<head>
   <section>
     <h1>Howdy!</h1>
     <h3> Battleship Rock is a brilliant outcrop that lies slightly North geographically of Natural Bridge.
