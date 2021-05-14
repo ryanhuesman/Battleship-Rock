@@ -98,5 +98,5 @@
   <li> A Python script was used to process the data we obtained from KyFromAbove
  <br>
 <br>
-<h3> Animations were produced by Ryan Huesman for the University of Kentucky's GEO 409 final project </h3>
+
 
