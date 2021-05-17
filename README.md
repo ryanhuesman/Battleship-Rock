@@ -86,10 +86,10 @@
 
 
 
-<img src="BR1.jpg">
-<h6> Link here: https://www.tripadvisor.ie/LocationPhotoDirectLink-g39858-d259757-i35375882-Natural_Bridge_State_Resort_Park-Slade_Kentucky.html
-<img src="BR3.jpg">
-<h6> Link here: https://parks.ky.gov/slade/trails/trails/battleship-rock-trail <br>
+<img src="BR1.jpg">        
+<h6> [Link to source](https://www.tripadvisor.ie/LocationPhotoDirectLink-g39858-d259757-i35375882-Natural_Bridge_State_Resort_Park-Slade_Kentucky.html)</h6>
+<img src="BR3.jpg">       
+<h6> [Link to source](https://parks.ky.gov/slade/trails/trails/battleship-rock-trail)</h6>
 <br>
 
 <h2> Tools Used </h2>
