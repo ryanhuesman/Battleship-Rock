@@ -87,9 +87,9 @@
 
 
 <img src="BR1.jpg">        
-<h6> [Link to source](https://www.tripadvisor.ie/LocationPhotoDirectLink-g39858-d259757-i35375882-Natural_Bridge_State_Resort_Park-Slade_Kentucky.html)</h6>
+<h6> <a href='https://www.tripadvisor.ie/LocationPhotoDirectLink-g39858-d259757-i35375882-Natural_Bridge_State_Resort_Park-Slade_Kentucky.html'>Link to source</a></h6>
 <img src="BR3.jpg">       
-<h6> [Link to source](https://parks.ky.gov/slade/trails/trails/battleship-rock-trail)</h6>
+<h6> <a href='https://parks.ky.gov/slade/trails/trails/battleship-rock-trail'>Link to source</a></h6>
 <br>
 
 <h2> Tools Used </h2>
